@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Ronie
 - 👀 Hoje eu trabalho criando Jogos em projetos pessoais
-- 🌱 Estudando Unity, PhP e Python
+- 🌱 Estudando Unity, PhP, Python e Javascript
 - 📫 Contate-me no e-mail: rcpronie@gmail.com
 
 <!---
