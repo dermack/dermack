@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://github.com/dermack">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dermack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ronie" />
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermack&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dermack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Ronie Christopher" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermack&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Ronie" />
   </a>
 </div>
   
