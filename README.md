@@ -6,22 +6,42 @@
 </div>
   
   
+# Olá, eu sou o Ronie Christopher! 👋
 
-🇧🇷
-- 👋 Oi, eu sou o Ronie
-- 👀 Hoje eu trabalho criando Jogos em projetos pessoais
-- 🌱 Estudando Unity, PhP, Python e Javascript
-- 📫 Contate-me no e-mail: rcpronie@gmail.com
+### 🚀 Fullstack Developer | SQL Specialist | Content Creator
 
-🇺🇸
-- 👋 Hello there, i'm Ronie
-- 👀 Currently i'm working on games as personal projects
-- 🌱 I'm studying Unity, PhP, Python and Javascript
-- 📫 You can contact me on e-mail: rcpronie@gmail.com
+Sou um desenvolvedor de software com **9 anos de experiência** construindo soluções robustas para o setor corporativo e supply chain[cite: 15, 20]. [cite_start]Atualmente, foco minha expertise no ecossistema **JavaScript (React & Node.js)**, unindo performance de banco de dados com interfaces modernas e intuitivas[cite: 17, 28].
 
+---
 
+### 🛠️ No que estou trabalhando?
 
-<!---
-dermack/dermack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **[Rifa Plus](https://www.rifaplus.app/):** Minha plataforma fullstack completa (React, Node, PostgreSQL) para gestão de sorteios online[cite: 23, 25].
+- **Game Life 3D:** No meu canal do YouTube, exploro o cruzamento entre desenvolvimento de jogos, programação e arte 3D.
+- **Ecossistema JS/TS:** Aprofundando em arquiteturas escaláveis e Clean UI.
+
+---
+
+### 🧰 Minha Stack Técnica
+
+- **Linguagens:** JavaScript (ES6+), PHP, SQL (Expert), C#, Python.
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3.
+- **Backend:** Node.js (Express), PHP, PostgreSQL, SQL Server, Oracle.
+- **DevOps/Tools:** Docker, Git, Azure DevOps, CI/CD.
+
+---
+
+### 📊 Experiência de Mercado
+
+Trago na bagagem passagens por grandes players como **Koerber Supply-chain**, **SoftExpert** e **TOTVS**, onde desenvolvi habilidades críticas em resolução de problemas complexos e metodologias ágeis.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+- 📧 E-mail: [ronietnt@hotmail.com](mailto:ronietnt@hotmail.com) 
+- 💼 LinkedIn: https://www.linkedin.com/in/roniepereira/
+- 🎬 YouTube: [Game Life 3D](https://www.youtube.com/@GameLife3D)
+
+---
+*"Transformando lógica complexa em experiências visuais incríveis."*
